@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c -masm=intel "$CFILE" > *.S
+gcc -c -masm=intel "$CFILE" > *.s

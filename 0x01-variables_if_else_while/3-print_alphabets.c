@@ -27,4 +27,6 @@ int main(void)
 	{
 		putchar(toupper(i));
 	}
+
+	return (0);
 }

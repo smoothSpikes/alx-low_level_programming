@@ -20,14 +20,13 @@ int main(void)
 	{
 		putchar(i);
 	}
-	
 
 	for (i = start; i <= end; i++)
 	{
 		putchar(toupper(i));
 	}
 
-	putchar('\n');	
+	putchar('\n');
 
 	return (0);
 }

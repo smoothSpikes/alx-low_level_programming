@@ -20,7 +20,7 @@ int main(void)
 
 	for (i = start; i <= end; i++)
 	{
-		if ( (i != 'q') && (i != 'e' ))
+		if ((i != 'q') && (i != 'e'))
 		{
 		putchar(i);
 		}

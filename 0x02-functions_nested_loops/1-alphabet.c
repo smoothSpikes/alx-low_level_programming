@@ -4,7 +4,8 @@
 /**
  * main - check the code
  *
- * Description: 'Hey'
+ * Description: This function prints the lowercase alphabet from 'a' to 'z'
+ *              followed by a new line character.
  *
  * Return: Always 0.
  *

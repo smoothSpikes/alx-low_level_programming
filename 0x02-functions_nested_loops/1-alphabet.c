@@ -2,15 +2,12 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Description: This function prints the lowercase alphabet from 'a' to 'z'
- *              followed by a new line character.
- *
- * Return: Always 0.
- *
- */
-
+  * print_alphabet - "entry"
+  *
+  * Description - 'Hey'
+  *
+  *
+  */
 
 void print_alphabet(void)
 {

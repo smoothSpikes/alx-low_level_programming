@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- * Description - 'Hey'
+ * Description: 'Hey'
  *
  * Return: Always 0.
  *

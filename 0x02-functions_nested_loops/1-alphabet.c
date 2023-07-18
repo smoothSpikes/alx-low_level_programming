@@ -4,9 +4,9 @@
 /**
  * main - check the code
  *
- * Return: Always 0.
+ * Description - 'Hey'
  *
- * Description - 'hey'
+ * Return: Always 0.
  *
  */
 

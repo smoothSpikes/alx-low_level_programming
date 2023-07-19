@@ -11,8 +11,8 @@
   */
 
 
-int _abs(int)
+int _abs(int r)
 {
-	printf(abs(int));
+	printf(abs(int r));
 	return (0);
 }

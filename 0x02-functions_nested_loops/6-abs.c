@@ -14,6 +14,6 @@
 int _abs(int r)
 {
 	int absVal = abs(r);
-	printf("%d", absVal);
-	return (0);
+	
+	return (absVal);
 }

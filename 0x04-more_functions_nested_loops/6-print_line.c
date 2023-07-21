@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
   * print_line - print a line
   * @n : lenght
@@ -9,7 +9,7 @@
 
 void print_line(int n)
 {
-	int n, i;
+	int i;
 
 	if (n <= 0)
 	{

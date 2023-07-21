@@ -1,21 +1,11 @@
 #include "main.h"
-#include <ctype.h>
-/**
-  * _isdigit - checks if a char is digit
-  * @c : char to check
-  * Return: 1 if digit,0 otherwise
-  *
-  *
-  */
 
+/**
+ * _isdigit - checks for a digit (0 through 9)
+ * @c: int to be checked
+ * Return: 1 if c is a digit, 0 otherwise
+ */
 int _isdigit(int c)
 {
-	for (c = 0; c <= 9; c++)
-	{
-		if (isdigit(c))
-		{
-			return (1);
-		}
-	}
-	return (0);
+	return (c >= '0' && c <= '9');
 }
